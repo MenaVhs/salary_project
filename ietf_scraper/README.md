@@ -2,7 +2,7 @@
 `scrapy startproject ietf_scraper`
 
 ### Make a new spider (go through spider directory)
-`scrapy genspider ietf pythonscrapign.com`
+`scrapy genspider ietf pythonscraping.com`
 
 ### Run spider 
  
