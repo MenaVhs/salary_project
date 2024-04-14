@@ -10,3 +10,7 @@
 
 Search in console:
 Avian Carriers
+
+## Virtual env
+### Activation 
+ `venv\Scripts\activate`
